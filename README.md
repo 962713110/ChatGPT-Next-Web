@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./docs/images/icon.svg" alt="icon"/>
-
+测试地址：https://chat-gpt-next-web-nfco-knsyt23xl-962713110.vercel.app/#/chat
 <h1 align="center">ChatGPT Next Web</h1>
 
 English / [简体中文](./README_CN.md)
